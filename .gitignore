@@ -1,3 +1,23 @@
+## LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+## PDF outputs
+*.pdf
+
+## Misc TeX temp files
+*.gz
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
 .DS_STORE
 /update.sh
 /_minted-sample
